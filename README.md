@@ -1,3 +1,5 @@
+<img width="1920" height="1200" alt="Screenshot (48)" src="https://github.com/user-attachments/assets/026cb39c-1212-4af8-b6b6-f59d8d5e30ce" />
+<img width="1920" height="1200" alt="Screenshot (49)" src="https://github.com/user-attachments/assets/db211958-ed42-4dc9-95ff-29e4e3ce5940" />
 # WeatherVibe 🌤️
 
 A single-file, no-build weather app with a live animated sky that actually reflects the real weather — rain falls, lightning strikes, snow drifts, the sun glows hotter on hot days, and the moon shows real phase and rise/set times for wherever you are.
